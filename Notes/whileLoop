@@ -1,0 +1,8 @@
+Structured similar to if statement
+
+Begins with a test, which is evaluated at the top of each loop
+If true, the commands between the do and done statements are executed
+
+Display value of the count variable, and increment by 1 each pass through the loop
+Then goes back to the top of the loop and executes again
+If fails, exits loop and executes statements after the done.

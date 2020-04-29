@@ -1,0 +1,6 @@
+Pass parameters by following the function name with the parameters value
+$1
+$2
+(review)
+
+Can assign parameters to environment variables or local variables

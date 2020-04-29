@@ -1,0 +1,13 @@
+VALID=0: Global variable that considers if input is valid
+
+$NAME =~ ^[A-Za-z]+$ : Regular expression, check characters in
+NAME to be alphabetical, upper and lowercase
+
+^ : start from beginning of string
+
++ : whatever is inside the brackets, there must be at
+ least one, can be more
+
+ $ : string must end here
+
+ $AGE =~ ^[0-9]+$ : Checks input if numerical

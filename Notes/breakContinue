@@ -1,0 +1,12 @@
+Syntax:
+
+if []
+ then
+ break
+ fi
+
+ Loop breaks when input is matched, exits program
+
+ Continue statement goes to top of the loop 
+
+ break terminates loop, continue goes to top of loop

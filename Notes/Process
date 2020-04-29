@@ -1,0 +1,6 @@
+ps -a : Lists out all running processes
+
+ps $1 > /dev/null : sending output to null device
+
+STATUS=$? : Kicks up status of the last command ran,
+let's us know if ps command is successful (0)

@@ -1,0 +1,42 @@
+if - then - fi
+
+if is a test to see if expression is true, then command between then and
+fi is exectued 
+
+
+if [$COLOR = "blue" ]
+then
+    echo "The color is blue"
+fi 
+
+need space in between "blue" and ] 
+
+----------------- Boolean Compares ------------------------
+
+-eq : if equal
+
+-ne : if not equal
+
+-lt : if less than
+
+-gt : if greater than
+
+-le : if less than or equal
+
+-ge : if greater than or equal 
+
+---------------- else ---------------------
+
+if
+then
+else
+fi 
+
+--------------- elif ----------------------
+
+Check different expression than the one used in the if
+
+gets then clause, or else syntax error
+
+elif []
+then 

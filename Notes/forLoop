@@ -1,0 +1,3 @@
+$@ : Holds all parameters user inputs in an array
+
+If array has no inputs, loop is never executed  

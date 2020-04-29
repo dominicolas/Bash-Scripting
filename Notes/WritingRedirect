@@ -1,0 +1,10 @@
+./reader.sh names.txt > output.txt
+
+Takes the output of the left side, saves output in a
+file called output.txt
+
+
+./reader.sh names.txt >> output.txt
+
+>> : Doesn't erase contents of file, instead
+adds output to bottom of file

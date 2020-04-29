@@ -1,0 +1,11 @@
+IFS = Internal Field Separator
+
+Tells Linux how to parse the field of the line reading
+
+-r : do not allow backslashes to escape any characters
+
+LINE : name of the variables used to hold the current line of text
+
+$1 : First parameters passed into the script
+
+< : use redirection so we can use past file as input

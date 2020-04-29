@@ -1,0 +1,11 @@
+[ -z $DELAY ]
+
+Checks for value/input
+
+On sleep, script will pause
+
+Can put a sleeping script in background
+
+Add & to command line
+
+While away, you can type in other commands

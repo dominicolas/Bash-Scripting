@@ -1,0 +1,9 @@
+Piping
+
+FILES= `ls -1 | sort -r | head -3`
+
+ls -1 : runs ls command, limits columns to 1
+
+sort -r : reverse the sort order (in alphabetical order)
+
+head -3 : take first 3 results

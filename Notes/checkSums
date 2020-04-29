@@ -1,0 +1,6 @@
+cksum names.txt
+
+Shows 3 values:
+1. checksum
+2. Size of file in bytes
+3. Name of file

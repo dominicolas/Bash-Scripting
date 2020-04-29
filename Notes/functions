@@ -1,0 +1,12 @@
+Syntax:
+
+function functionName() {
+  echo "Hello"
+}
+
+functionName() {
+  echo "Goodbye"
+}
+
+Don't use parenthesis when calling the function
+Functions must be defined before they can be called (must be at the top of script)

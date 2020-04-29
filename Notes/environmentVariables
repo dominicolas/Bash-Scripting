@@ -1,0 +1,18 @@
+Environment variables
+
+HOME - user's home directory
+
+PATH - directories which are searched for commands
+
+HOSTNAME - hostname of the machine
+
+SHELL - shell that is being used
+
+Like own internal variables, but are defined elsewhere (in another program)
+
+[ -z ] : checks for an empty string
+
+PATH="/" : Changes path name
+
+Environment variables will always revert back to how they
+were before the script ran
